@@ -27,11 +27,11 @@
 ---
 
 ### 📊 GitHub Statistics
-![Japegomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Japegomez&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Japegomez&layout=compact&theme=radical)
+![Japegomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Japegomez&show_icons=true&bg_color=00000000)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Japegomez&layout=compact&bg_color=00000000)
 
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/japegomez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/japegomez/)
 📧 japenago@gmail.com
